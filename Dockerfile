@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.13
+FROM python:3.12.7-alpine
 LABEL maintainer="gobiappdevelop.com"
 
 ENV PYTHONUNBUFFERED=1
